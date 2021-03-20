@@ -36,7 +36,7 @@ docutils==0.14
 gprof2dot==2017.9.19
 html5lib==1.0.1
 idna==2.6
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonschema==2.6.0
 Markdown==2.6.11
